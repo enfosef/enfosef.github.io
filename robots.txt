@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://enfosef.github.io/sitemap/sitemap.txt
